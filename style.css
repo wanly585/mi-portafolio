@@ -5,13 +5,13 @@
     line-height: 1.5;
 }
 :root{
-    --color-primary: #3e3d3d;
+    --color-primary: #dbd8d8;
     --color-sencondary: #ffffff;
-    --color-acent: #404c57;
+    --color-acent: #dde2e7;
     --color-background: #b63d3d;
-    --color-text: #171616;
-    --bg-color: #8d8d8d;
-    --muted-color: #2e373d;
+    --color-text: #cac7c7;
+    --bg-color: #ffffff;
+    --muted-color: #a4aaad;
 
 }
 body{
